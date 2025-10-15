@@ -29,8 +29,7 @@ Here’s a quick look at some of my project interfaces:
 
 | MedShare App | Streamlit Dashboard |
 |---------------|--------------------|
-| ![MedShare UI](Purple%20Pink%20Gradient%20Mobile%20Application%20Presentation.png) | ![Streamlit Dashboard](<img width="935" height="835" alt="image" src="https://github.com/user-attachments/assets/af17a5b9-37cb-4d03-a512-ccbf79eb6e20" />
-) |
+| ![MedShare UI](Purple%20Pink%20Gradient%20Mobile%20Application%20Presentation.png) | ![Streamlit Dashboard](%7BDF7BEA23-2873-493A-BC5E-F274E640907F%7D.png)|
 
 
 ---
