@@ -62,8 +62,7 @@ Here’s a quick look at some of my project interfaces:
 📧 **Email:** nadiaalsalem03@gmail.com 
 
 ## 📄 Download My CV
-[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1AbCdEfGhIJklMnOP)
-
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1aAE5Rnqo4zQVC7SUj2YP2gf5s9kfJV5I)
 ---
 
 ⭐ *"Data tells stories, I just teach machines to listen."*
