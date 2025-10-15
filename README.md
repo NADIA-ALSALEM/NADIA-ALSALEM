@@ -60,8 +60,9 @@ Here’s a quick look at some of my project interfaces:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadia%20Al--Salem-blue?logo=linkedin)](https://www.linkedin.com/in/nadia-al-salem-86a246245/)
  
 📧 **Email:** nadiaalsalem03@gmail.com 
+
 ## 📄 Download My CV
-![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=googledrive)
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1AbCdEfGhIJklMnOP)
 
 ---
 
