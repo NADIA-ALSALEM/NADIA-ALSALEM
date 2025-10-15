@@ -53,7 +53,7 @@ Currently exploring **automated ML pipelines**, **LLM-powered analytics**, and *
  
 📧 **Email:** nadiaalsalem03@gmail.com 
 ## 📄 Download My CV
-[![Download CV]](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=googledrive)
+![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=googledrive)
 
 ---
 
