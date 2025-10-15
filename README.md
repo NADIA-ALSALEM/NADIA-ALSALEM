@@ -49,7 +49,7 @@ Currently exploring **automated ML pipelines**, **LLM-powered analytics**, and *
 ---
 
 ## 💬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadia%20Al--Salem-blue?logo=linkedin)]([https://www.linkedin.com/in/nadiaalsalem](https://www.linkedin.com/feed/update/urn:li:activity:7329520118449766400/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadia%20Al--Salem-blue?logo=linkedin)]((https://www.linkedin.com/feed/update/urn:li:activity:7329520118449766400/))  
 📧 **Email:** nadiaalsalem03@gmail.com 
 ## 📄 Download My CV
 [![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/uc?export=download&id=1aAE5Rnqo4zQVC7SUj2YP2gf5s9kfJV5I)
