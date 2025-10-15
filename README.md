@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Nadia Al-Salem  
 
-<!--
-**NADIA-ALSALEM/NADIA-ALSALEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> AI & Machine Learning Engineer | Data Analytics | AI Developer
 
-Here are some ideas to get you started:
+I’m passionate about turning data into decisions, combining **engineering precision**, **analytical thinking**, and **AI innovation** to build systems that actually make an impact.  
+Currently exploring **automated ML pipelines**, **LLM-powered analytics**, and **ethical AI applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do
+- **Machine Learning & MLOps:** Building scalable training pipelines, CI/CD, and model monitoring.
+- **Data Engineering:** Transforming raw data into usable datasets using pandas, SQL, and ETL frameworks.
+- **Analytics & BI:** Designing data dashboards and visual reports using Power BI & Python.
+- **AI Agents & Chatbots:** Prototyping intelligent assistants for education and healthcare.
+
+---
+
+## 🚀 Selected Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [**MedShare**](#) | Platform for safe medicine donations. Validates expiry, connects donors to health centers. Presented to the Ministry of Digital Economy after winning top-5 in Crown Prince Competition. | Firebase, Python, Flutter |
+| [**Financial News Sentiment**](#) | An MLOps pipeline for analyzing financial news and ranking market impact using LightGBM & SHAP. | LightGBM, MLflow, FastAPI |
+| [**Campus Identity Recognition**](#) | Face recognition project to automate student identity verification. | OpenCV, CNN |
+| [**Interactive Dashboards**](#) | Data-driven Power BI dashboards for decision support. | Power BI, SQL, DAX |
+
+---
+
+## 🛠️ Technical skills 
+**Languages:** Python, SQL  
+**ML/AI:** LightGBM, CatBoost, Scikit-learn, SHAP  
+**MLOps:** Docker, MLflow, GitHub Actions  
+**Data Tools:** pandas, Power BI, NumPy, Matplotlib  
+**Cloud & APIs:** Firebase, REST APIs, Hugging Face  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NADIA-ALSALEM&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NADIA-ALSALEM&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+- Building **AI Agents** with Hugging Face tools  
+- Advanced MLOps orchestration and experiment tracking  
+- Integrating LLMs in analytics workflows  
+
+---
+
+## 💬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadia%20Al--Salem-blue?logo=linkedin)](https://www.linkedin.com/in/nadiaalsalem)  
+📧 **Email:** nadiaalsalem03@gmail.com 
+
+---
+
+⭐ *"Data tells stories, I just teach machines to listen."*
