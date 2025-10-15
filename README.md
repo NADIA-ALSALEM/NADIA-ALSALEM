@@ -27,9 +27,10 @@ Currently exploring **automated ML pipelines**, **LLM-powered analytics**, and *
 ## 🖼️ Project Gallery
 Here’s a quick look at some of my project interfaces:
 
-| MedShare App | Streamlit Dashboard |
-|---------------|--------------------|
-| ![MedShare UI](images/medshare_ui.png) | ![Streamlit Dashboard](images/streamlit_dashboard.png) |
+| MedShare App |
+|---------------|
+| ![MedShare UI](Purple%20Pink%20Gradient%20Mobile%20Application%20Presentation.png)
+
 
 ---
 ## 🛠️ Technical skills 
